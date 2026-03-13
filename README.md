@@ -58,3 +58,20 @@ https://public.tableau.com/views/A6OCEDFinalProject/FinalStory?:language=en-US&p
 # Limitations
 * Dataset avaliable only through 2018
 * MRI units values contained inconsistencies and were excluded from the analysis
+
+# Reproducing This Analysis
+This project analyzes OECD well-being and economic indicators using Pythin and Tableau
+### 1. Clone the Repository
+https://github.com/Jayyvee/Python--Diagnostic-Imaging-and-Hospital-Infrastructure-in-OECD-Countries
+### 2. Install Required Pythin Packages
+Create a virtual enviroment and install dependencies
+pip install -r requirments.txt
+### 3. Run the Data Cleaning Script
+The cleaned dataset used in the analysis is generated using the Python scripts in the /03 Scripts/Project Data Cleaning
+### 4. Run the Analysis
+Analysis scripts used for exploratory analysis and feature preparation are located in /03 Scripts/Final Project Analysis
+### 5. Open the Tableau Dashboard
+The final visualization dashboard is avaliable here:
+https://public.tableau.com/views/A6OCEDFinalProject/FinalStory?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+### 6. Data Source
+Original Data file can be found here: https://www.kaggle.com/datasets/babyoda/healthcare-investments-and-length-of-hospital-stay/data
