@@ -55,5 +55,6 @@ Variables used:
 ### Interactive dashboard avaliable here:
 https://public.tableau.com/views/A6OCEDFinalProject/FinalStory?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
-
-
+# Limitations
+* Dataset avaliable only through 2018
+* MRI units values contained inconsistencies and were excluded from the analysis
