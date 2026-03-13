@@ -32,5 +32,25 @@ Variables used:
 * Dashboard visualization in Tableau
 
 # Key Findings
-* CT Scanner availability increased significantly across OECD countries from 1990-2018
-* Countired with greater diagnostic imaging
+## Technology Growth
+* CT Scanner availability increased significantly across OECD countries from 1990-2018, reflecting growing investments in diagnostic imaging technology
+## Infrastructure Relationshio
+* Countries with higher CT Scanner density tend to maintain greater hospital bed capacity, suggesting healthcare modernization expands both technology and infrastructure
+## Healthcare System Types
+* Cluster analysis reveals three distint healthcare systems models scross OECD countries based on diagnostic technology investment and hospital infrastructure levels
+## Overall Insight
+* OECD healthcare systems are evoling toward technology-enabled efficiency rather than replacing traditional hospital infrastructure
+
+# Visualizations
+## Healthcare infrastructure Trends
+
+## CT Scanners vs Hospital Beds
+
+## Healthcare Systems Clusters
+
+# Tableau Dashboard
+## Interactive dashboard avaliable here:
+https://public.tableau.com/views/A6OCEDFinalProject/FinalStory?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+
+
