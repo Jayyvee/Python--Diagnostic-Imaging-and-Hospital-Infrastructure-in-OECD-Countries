@@ -1,3 +1,7 @@
+
+<img width="100" height="100" alt="oecd-720x720" src="https://github.com/user-attachments/assets/3565e0db-ff7d-4297-9fa6-4cddad75fe87" />
+
+
 # Diagnostic Imaging and Healthcare Infrastructure in OECD Countries
 
 # Project Overview
